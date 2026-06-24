@@ -1,0 +1,8 @@
+UI/node_modules
+Middleware/node_modules
+
+UI/dist
+Middleware/dist
+
+.env
+.DS_Store
